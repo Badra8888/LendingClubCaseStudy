@@ -1,5 +1,5 @@
 Lending_Club_CaseStudy
-> Lending Club Project - Outline a brief description of your project.
+> Outline a brief description of your project.
 
 
 ## Table of Contents
